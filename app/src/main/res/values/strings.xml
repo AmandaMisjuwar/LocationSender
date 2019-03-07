@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SendLocation</string>
+    <string name="Start">CALL FOR HELP</string>
+    <string name="enter_an_emergency_number_here">Enter an emergency number here!</string>
+    <string name="enter_emergency_contact_name" />
+</resources>
